@@ -1,0 +1,21 @@
+C:/Users/Admin/OneDrive - bib & FHDW/Unterricht/SCC/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.exe.config
+C:/Users/Admin/OneDrive - bib & FHDW/Unterricht/SCC/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.exe
+C:/Users/Admin/OneDrive - bib & FHDW/Unterricht/SCC/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.pdb
+C:/Users/Admin/OneDrive - bib & FHDW/Unterricht/SCC/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.csprojAssemblyReference.cache
+C:/Users/Admin/OneDrive - bib & FHDW/Unterricht/SCC/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.csproj.CoreCompileInputs.cache
+C:/Users/Admin/OneDrive - bib & FHDW/Unterricht/SCC/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.exe
+C:/Users/Admin/OneDrive - bib & FHDW/Unterricht/SCC/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.pdb
+/Users/muratbasoglu/Desktop/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.exe.config
+/Users/muratbasoglu/Desktop/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.exe
+/Users/muratbasoglu/Desktop/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.pdb
+/Users/muratbasoglu/Desktop/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.csproj.AssemblyReference.cache
+/Users/muratbasoglu/Desktop/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.csproj.CoreCompileInputs.cache
+/Users/muratbasoglu/Desktop/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.exe
+/Users/muratbasoglu/Desktop/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.pdb
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.exe.config
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.exe
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung060_Verleihservice/Uebung060_Verleihservice/bin/Debug/Uebung060_Verleihservice.pdb
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.csproj.AssemblyReference.cache
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.csproj.CoreCompileInputs.cache
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.exe
+/Users/muratbasoglu/Desktop/3.Block/C#/Uebung060_Verleihservice/Uebung060_Verleihservice/obj/Debug/Uebung060_Verleihservice.pdb
